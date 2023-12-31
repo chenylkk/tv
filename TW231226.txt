@@ -1,0 +1,155 @@
+
+电影频道,#genre#
+
+龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=m8fe1f2649ecd12830420&ct=17874&tsum=a6674ed93a8ec4ea4705c721b752d4db
+HBO,http://208.115.225.174:14165
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+WB TV,http://208.115.225.174:14132
+HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
+星卫电影,http://gwtv.cnv8.tv:8097/xingwei_movie/playlist.m3u8
+纬来电影,http://gwtv.cnv8.tv:8097/videolandmovie/playlist.m3u8
+三立戏剧,http://gwtv.cnv8.tv:8097/sanlixiju_twn/playlist.m3u8
+美亚电影,http://gwtv.cnv8.tv:8097/meiyamovie_twn/playlist.m3u8
+龙祥时代,http://gwtv.cnv8.tv:8097/lungxiangtime_twn/playlist.m3u8
+龙华洋片,http://gwtv.cnv8.tv:8097/lunghuawestern_twn/playlist.m3u8
+龙华戏剧,http://gwtv.cnv8.tv:8097/lunghuaxiju_twn/playlist.m3u8
+好莱坞电影,http://gwtv.cnv8.tv:8097/hollywoodmovies_twn/playlist.m3u8
+东森洋片,http://gwtv.cnv8.tv:8097/ettvwestern/playlist.m3u8
+东森电影,http://gwtv.cnv8.tv:8097/ettvmovie/playlist.m3u8
+八大综合,http://gwtv.cnv8.tv:8097/badazhonghe/playlist.m3u8
+八大戏剧,http://gwtv.cnv8.tv:8097/badadrama/playlist.m3u8
+八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大綜合HD,http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大第一,http://gwtv.cnv8.tv:8097/badafirst/playlist.m3u8
+爱尔达影剧,http://gwtv.cnv8.tv:8097/eltadrama_twn/playlist.m3u8
+HBO原创巨献,http://gwtv.cnv8.tv:8097/hbosignature_twn/playlist.m3u8
+HBO温馨家庭,http://gwtv.cnv8.tv:8097/fyi_twn/playlist.m3u8
+HBO强档巨献,http://gwtv.cnv8.tv:8097/hbohead_twn/playlist.m3u8
+HBO,http://gwtv.cnv8.tv:8097/hbohd_twn/playlist.m3u8
+EYETV戏剧,http://gwtv.cnv8.tv:8097/eyetvxiju_twn/playlist.m3u8
+CINEMAX,http://gwtv.cnv8.tv:8097/cinemax_twn/playlist.m3u8
+AXN,http://gwtv.cnv8.tv:8097/axn_twn/playlist.m3u8
+
+湾湾频道,#genre#
+
+中视,rtmp://9sv2.mine.nu/sat/tv091
+台视,rtmp://9sv2.mine.nu/sat/tv071
+民视,rtmp://9sv2.mine.nu/sat/tv051
+华视,rtmp://9sv2.mine.nu/sat/tv111
+东森超视,rtmp://9sv2.mine.nu:1935/sat/tv331
+东森财经新闻,rtmp://9sv2.mine.nu:1935/sat/tv571
+东森财经新闻,rtmp://9sv2.mine.nu/sat/tv571
+TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
+TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
+台視新聞HD,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+華視,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
+年代新聞,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+公視,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0
+中天亚洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
+三立戲劇,http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
+三立綜合,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=MB0B8754413687544136&ct=19193&tsum=b815a8eec252a8266b57178e6b336b03
+東森超視,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+中天综合,http://gwtv.cnv8.tv:8097/ctizhonghe/playlist.m3u8
+中天娱乐,http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8
+中天亚洲,http://gwtv.cnv8.tv:8097/ctiasia_twn/playlist.m3u8
+中天新闻,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8
+中视新闻,http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8
+中视经典,http://gwtv.cnv8.tv:8097/zhongshi_twn/playlist.m3u8
+中视,http://gwtv.cnv8.tv:8097/zhongshihd_twn/playlist.m3u8
+卫视中文,http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8
+台视,http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
+三立综合,http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8
+三立台湾,http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8
+年代新闻,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
+民视新闻,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8
+民视台湾,http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8
+民视第一,http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8
+民视,http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8
+靖天卡通,http://gwtv.cnv8.tv:8097/jingtiancartoon_twn/playlist.m3u8
+靖天国际,http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8
+华视,http://gwtv.cnv8.tv:8097/ctshd_tw/playlist.m3u8
+公视,http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8
+非凡新闻,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
+东森综合,http://gwtv.cnv8.tv:8097/ettvzhonghe/playlist.m3u8
+东森幼幼,http://gwtv.cnv8.tv:8097/yoyo_twn/playlist.m3u8
+东森超视,http://gwtv.cnv8.tv:8097/ettvsuper/playlist.m3u8
+东森财经,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
+东森LIVE,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
+大爱,http://gwtv.cnv8.tv:8097/daai_twn/playlist.m3u8
+TVBS新闻,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8
+TVBS欢乐,http://gwtv.cnv8.tv:8097/tvbshuanle_twn/playlist.m3u8
+TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
+JET综合,http://gwtv.cnv8.tv:8097/jettv_japan/playlist.m3u8
+BABY TV,http://gwtv.cnv8.tv:8097/Babytv/playlist.m3u8
+
+体育频道,#genre#
+
+纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+MOMO综合,rtmp://9sv2.mine.nu/sat/tv761
+ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md011
+ELTA体育1,rtmp://9sv2.mine.nu:1935/sat/md031
+ELTA体育2,rtmp://9sv2.mine.nu/sat/md041
+ELTA体育3,rtmp://9sv2.mine.nu:1935/sat/md051
+ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md041
+ELTA体育4,rtmp://9sv2.mine.nu:1935/sat/md051
+ELTA体育4,http://50.7.238.114:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+博斯运动2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
+博斯网球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+ELEVEN体育1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
+爱尔达体育1台,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+ELEVEN1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+纬来育乐,rtmp://9sv2.mine.nu/sat/tv701
+纬来体育,rtmp://9sv2.mine.nu/sat/tv721
+MOMO综合,rtmp://9sv2.mine.nu/sat/tv761
+纬来日本,rtmp://9sv2.mine.nu/sat/tv771
+ELEVEN1,rtmp://9sv2.mine.nu/sat/tv731
+ELEVEN2,rtmp://9sv2.mine.nu/sat/tv741
+博斯网球,rtmp://9sv2.mine.nu/sat/md011
+博斯运动I,rtmp://9sv2.mine.nu/sat/md021
+博斯网球,http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+BRTV体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?
+virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+辽宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+Astro SuperSport 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918982&extension=ts
+BT Sport 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30565&extension=ts
+ELEVEN SPORTS 1 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
+Sky Sports Action,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=929003&extension=ts
+Sky Sports F1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30499&extension=ts
+SONY SPORTS 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=156024&extension=ts
+TSN 3,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=177346&extension=ts
+TSN 4,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904213&extension=ts
+TSN 5,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=904212&extension=ts
+VIAPLAY SPORTS 2,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=45251&extension=ts
+博斯运动2,http://gwtv.cnv8.tv:8097/bosisport2_twn/playlist.m3u8
+博斯网球,http://gwtv.cnv8.tv:8097/bositennis_twn/playlist.m3u8
+博斯魅力,http://gwtv.cnv8.tv:8097/bosisport1_twn/playlist.m3u8
+博斯高球2,http://gwtv.cnv8.tv:8097/bosigolf2_twn/playlist.m3u8
+博斯高球1,http://gwtv.cnv8.tv:8097/bosigolf1_twn/playlist.m3u8
+爱尔达体育3,http://gwtv.cnv8.tv:8097/eltasport3_twn/playlist.m3u8
+爱尔达体育2,http://gwtv.cnv8.tv:8097/eltasport2_twn/playlist.m3u8
+爱尔达体育1,http://gwtv.cnv8.tv:8097/eltasport1_twn/playlist.m3u8
+ELEVEN1,http://gwtv.cnv8.tv:8097/golfchannel_twn/playlist.m3u8
+纬来体育,http://gwtv.cnv8.tv:8097/videolandsport/playlist.m3u8
+
+探索频道,#genre#
+EYETV旅遊,http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
+時尚頻道,http://50.7.238.114:8278/fashiontv_twn/playlist.m3u8?tid=MABA6457047364570473&ct=18393&tsum=82840dc94ca1ecca47ac4c26d3ee4afc
+探索亚洲,http://gwtv.cnv8.tv:8097/discoverytwn_twn/playlist.m3u8
+探索频道HD,http://gwtv.cnv8.tv:8097/discoveryhd_twn/playlist.m3u8
+探索频道CH,http://gwtv.cnv8.tv:8097/discoverych_twn/playlist.m3u8
+探索科学,http://gwtv.cnv8.tv:8097/discoverysc_twn/playlist.m3u8
+探索动力,http://gwtv.cnv8.tv:8097/discoveryturbo_twn/playlist.m3u8
+时尚频道,http://gwtv.cnv8.tv:8097/fashiontv_twn/playlist.m3u8
+美食星球,http://gwtv.cnv8.tv:8097/foodplanet_twn/playlist.m3u8
+国家地理野生,http://gwtv.cnv8.tv:8097/natgeowild_twn/playlist.m3u8
+国家地理,http://gwtv.cnv8.tv:8097/natgeohd_twn/playlist.m3u8
+动物星球,http://gwtv.cnv8.tv:8097/animalplanet_twn/playlist.m3u8
+TLC旅游生活,http://gwtv.cnv8.tv:8097/tlc_twn/playlist.m3u8
+EYETV旅游,http://gwtv.cnv8.tv:8097/eyetvtravel_twn/playlist.m3u8
+BBC lifestyle,http://gwtv.cnv8.tv:8097/bbclifestyle_twn/playlist.m3u8
+
