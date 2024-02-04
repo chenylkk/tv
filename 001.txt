@@ -1,0 +1,593 @@
+凤凰中文-「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰咨询-「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港-「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+凤凰资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
+凤凰中文台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-cn
+凤凰资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-info
+凤凰香港台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-hk
+凤凰卫视台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv
+凤凰资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-info
+凤凰中文台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-cn
+凤凰香港台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-hk
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+爆谷,http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
+星影,http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
+凤凰中文,http://hls.666888999.gay/iptv.php?id=1
+凤凰资讯,http://hls.666888999.gay/iptv.php?id=2
+香港线新闻台,http://hls.666888999.gay/iptv.php?id=3
+香港有线18台,http://hls.666888999.gay/iptv.php?id=4
+香港有线高清603台,http://hls.666888999.gay/iptv.php?id=5
+TVB无线新闻台,http://hls.666888999.gay/iptv.php?id=6
+TVB财经体育资讯台,http://hls.666888999.gay/iptv.php?id=7
+TVB翡翠台,http://hls.666888999.gay/iptv.php?id=8
+TVB华-丽翡翠台,http://hls.666888999.gay/iptv.php?id=9
+TVB明珠台,http://hls.666888999.gay/iptv.php?id=10
+TVB J2,http://hls.666888999.gay/iptv.php?id=11
+星-河频道,http://hls.666888999.gay/iptv.php?id=12
+VIUTV,http://hls.666888999.gay/iptv.php?id=13
+NOW 新闻台,http://hls.666888999.gay/iptv.php?id=15
+有线体育频道,http://hls.666888999.gay/iptv.php?id=16
+有线电视剧,http://hls.666888999.gay/iptv.php?id=17
+有线新闻台,http://hls.666888999.gay/iptv.php?id=18
+RHK32,http://hls.666888999.gay/iptv.php?id=19
+TVB 翡翠台,http://www.biaozhun114.com/dl/dl888/histar.php?feicui
+TVB 明珠台,http://www.biaozhun114.com/dl/dl888/histar.php?pearl
+TVB J2台,http://www.biaozhun114.com/dl/dl888/histar.php?j2
+TVB 无线新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-news
+TVB 无线财经台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-finance
+有线新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?cable-news
+有线财经资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?cable
+有线体育台,http://www.biaozhun114.com/dl/dl888/histar.php?icable-sports
+有线电影台,http://www.biaozhun114.com/dl/dl888/histar.php?icable-movie
+有线18台,http://www.biaozhun114.com/dl/dl888/histar.php?icable18
+ViuTV,http://www.biaozhun114.com/dl/dl888/histar.php?viutv
+ViuTV6,http://www.biaozhun114.com/dl/dl888/histar.php?viutv6
+港台电视31,http://www.biaozhun114.com/dl/dl888/histar.php?rthk31
+港台电视32,http://www.biaozhun114.com/dl/dl888/histar.php?rthk32
+Now新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?now-news
+Now直播台,http://www.biaozhun114.com/dl/dl888/histar.php?now-331
+Now华剧台,http://www.biaozhun114.com/dl/dl888/histar.php?now-hairun
+HOYTV,http://www.biaozhun114.com/dl/dl888/histar.php?hoytv
+香港国际财经台,http://www.biaozhun114.com/dl/dl888/histar.php?hkibc
+HOY资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?hoy-info
+澳门资讯,http://www.biaozhun114.com/dl/dl888/histar.php?amzx
+澳视澳门,http://www.biaozhun114.com/dl/dl888/histar.php?asam
+TVB经典台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-classic
+TVB华语剧台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-drama
+TVB星河台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-xinghe
+澳门莲花卫视,http://www.biaozhun114.com/dl/dl888/histar.php?lotustv
+天映经典,http://www.biaozhun114.com/dl/dl888/histar.php?cccm
+天映频道HD,http://www.biaozhun114.com/dl/dl888/histar.php?celestial
+TVB 翡翠台,http://www.biaozhun114.com/dl/dl888/histar.php?feicui
+TVB 无线新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-news
+TVB 黄金翡翠台,http://www.biaozhun114.com/dl/dl888/histar.php?golden-jade
+TVB 黄金华剧台,http://www.biaozhun114.com/dl/dl888/histar.php?golden-chinese-drama
+TVB 星河台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-xinghe
+TVB 娱乐新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?TVB ylxw
+TVB 千禧经典台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-classic
+TVB 无线财经体育资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-finance
+TVB 粤语片台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-yueyu
+TVB 明珠台,http://www.biaozhun114.com/dl/dl888/histar.php?pearl
+TVB 亚洲剧台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-asia-drama
+TVB 华语剧台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-drama
+星空卫视,http://www.biaozhun114.com/dl/dl888/histar.php?star-xing-kong
+香港卫视,http://www.biaozhun114.com/dl/dl888/histar.php?hks
+HKC 18台,http://www.biaozhun114.com/dl/dl888/histar.php?hkc18
+天映频道,http://www.biaozhun114.com/dl/dl888/histar.php?celestial
+HOY TV,http://www.biaozhun114.com/dl/dl888/histar.php?hoytv
+HOY 资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?hoy-info
+HOY 国际财经,http://www.biaozhun114.com/dl/dl888/histar.php?hoy-ibc
+澳门卫视,http://www.biaozhun114.com/dl/dl888/histar.php?mstv
+澳亚卫视,http://www.biaozhun114.com/dl/dl888/histar.php?mastv
+港台电视 31,http://www.biaozhun114.com/dl/dl888/histar.php?rthk31
+港台电视 32,http://www.biaozhun114.com/dl/dl888/histar.php?rthk32
+美国中文电视,http://www.biaozhun114.com/dl/dl888/histar.php?sinovision
+Now 直播台,http://www.biaozhun114.com/dl/dl888/histar.php?now-direct
+Now 财经台,http://www.biaozhun114.com/dl/dl888/histar.php?now-finance
+Now 新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?now-news
+Now报价台,http://www.biaozhun114.com/dl/dl888/histar.php?now-data
+Now jelli紫金国际台,http://www.biaozhun114.com/dl/dl888/histar.php?now-jelli
+Now华剧台,http://www.biaozhun114.com/dl/dl888/histar.php?now-chinese-drama
+NowViu剧集台,http://www.biaozhun114.com/dl/dl888/histar.php?now-viu-drama
+Now 星影台,http://www.biaozhun114.com/dl/dl888/histar.php?now-baogu-superstars
+Now 爆谷台,http://www.biaozhun114.com/dl/dl888/histar.php?baogu-movies
+Now Sports精选,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-prime
+Now Sports 1,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-1
+Now Sports 2,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-2
+Now Sports 3,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-3
+Now Sports 4,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-4
+Now Sports 5,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-5
+Now Sports 6,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-6
+Now Sports 7,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-7
+Now Sports Plus,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-plus
+Now Sports 英超1,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league1
+Now Sports 英超2,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league2
+Now Sports 英超3,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league3
+Now Sports 英超4,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league4
+Now Sports 英超5,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league5
+Now Sports 英超6,http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league6
+Now 668,http://www.biaozhun114.com/dl/dl888/histar.php?now-668
+Now Golf 2,http://www.biaozhun114.com/dl/dl888/histar.php?now-golf2
+Now Golf 3,http://www.biaozhun114.com/dl/dl888/histar.php?now-golf3
+
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+香港卫视,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
+香港电台普通话,https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/index_56_a-p.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+香港RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+TVB 无线财经台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+翡翠台 超清,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB 星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB 粤语片台,https://cdn.ggapk.net/live/tv?id=f1a5aU6fUDVKN_d1jCHn644tSeb_PyIS4i1FO4NuE3JUJK3ry4dioC9gQiMoy8tF5wmpueHWFgufd1b_pTTJU9rgPrGv5dOSXZ1gMt9Cdt-UNhdLttFN-KYVKOZ348EvCaJCMZzG2tmeXQzAUNbYsSewA4j6xOdJq_cnMhZfkeW_CzK_Wo_-_Av8-QtlHJUf7NynPN87mbeTb3V21vjUn5aqoo9BEkvOxsGCj-042Asl0eFFZ4gOdK8iNhRK5cdLosibJzktJLDIEPwjLeZ0ANtfDk2U253j4EZe4vL8jryAq1mvQSH4AW_J_OrRTOpK1PvpSBE5mA_O0QEkYKv0GtzkpQdSacnpWK0tGqlxg_fblMe66_on7Cz9zi4
+TVB 亚洲剧台,https://cdn.ggapk.net/live/tv?id=fc9frsCFWlzaLtudHYRMIeb6BvAYzzN5QznSL-6EPlS33I4vQyIrNn2OSgDP2zh6d7l0fynzDHr6dqXmnduG7mlS_iE4qvKErJZQ4ZcxheC4XEX53B8GfDSl9P-YqDEu2mCsXZLWKR6BA4mfzOZHZW4vaV8gZ9Cu9N4vLAwVRKS7Snf4Uhs-ocK57Dauy8z--r4ix3dSdrNP8nBWbLrVPVhl03XD4d6p1FStu41zjKk3Qm2tbGj6TbvNUnpEtMxbT3l0BZwPZvLKiK8xdEDgajwp_Wj_RsXD1ac44QxlCrJyPAfFDwsKsL4iujKJObDfbg95MaHWPtLBHoB14SZeZai0j8PEdtvcb65Qxco_oPwMzqrhQHVlf2Ab8zo
+TVB 千禧经典台,https://cdn.ggapk.net/live/tv?id=d7b6yCCtbkr4YsOgdCUIbfH04AFAyN3lEfmae_2qv1eDunhNh09sCDCVFoeEooq6u9OnibrAedBPKr-gtdwNzceMY1VYhM4j9e_rt1cH4-35h0_Ro4DsquGknr7vRaQ6adRd38rLixHj-LqEiuQm9_EU7UW3J3jTuu31jIXwSHxFFCk--B_AtxnMnt-bF_kEBzedAqVta1KI9uBRj-S7L0BlHxCZDx3cPNQyrD4_E4IWBp48-TC8hiUAxPTLCqapgwMRtz3SX6ROTqO10y7FOwGL6Q9keVrodbbK7EgapfDvLwqckALDxpL-aJYUymRT00jnVJ-lDBGATrm3mmEXHlymXYI8BoZ46UxAUGXy9d_mK2pjD0f8d9nPGcA
+TVB 明珠台,https://cdn.ggapk.net/live/tv?id=9fb8bQTEWRl0TQAEYCkwCVXeWJ8CspOw3GeWIl0GrGpcM--9FqhlhJpjoTOXwDuZ2Upnyjj3xwPfoX7hyacFrlS1jfSUaPYLLfLTeogiBSjzBPn6pNzfeJYbF3B8FQ7NRmWvgJxLkqH1wmqPnphlSSAxJaE9mTpuSwk8GUSFvN0JihQ2zhuMp0u2PCZnbLVMI7tWSRDFHhBwd0gufjebtbk7fnjQPkZCW6YgGu8feMCzXg334M-1D6yV7HfvVOgPE7hwkAT7L84YBi1x9GPo22DUcKfCnPIg0KLOgveo-yC-ry7U2utozZh_Bw
+TVB 无线新闻台,https://cdn.ggapk.net/live/tv?id=be3afTKIU4hBJAipj1g8ddV-mcsA_1BHEGdR8rE-ebux8GGk8PvMW2Z-w2VKsm0ktnq1e0e5-qvfYk3ouzVzt8d3S1uIB3q5ECoM9h3i_gbeX2xoXTLGjafavnCPcmOqoHKbzzUJJgBBjTc-96zj7Ah8kl98pKKeLl8-71P7jklOJtVUJnUGywTk37lFV0bu_mqDrZsOCu_1xYHhOish6YFmks9BbWB5W2GOxTeu7_OtoA4yWyhD9vZflTfBq7jKQXBQEF9ZWzOYpxEEAW09SxNhAmEOexGVjaokE9o7tiwBq6sJwkcB9Jn7Q78vN4O393qEDtIlRgJvJeWdbO5024BsUE8RNM2cYOwUyRtp7nnyWVi8h1GNs6N-XBU
+TVB J2台,https://cdn.ggapk.net/live/tv?id=d430hvKyWlEd4te7Ax6DivSDLDSgRLPB4jGmhHa66OePkPOrwT8VLEC5Fc41FKMuWXKR5MASN7tKkv-g1kaQ5XSw94TvWGnEXojPEcUp3P-8xPtVly08BMHfRFjGxNNomnOh3Ej_MAdzxAQTid2sfIJen1MJX2ZeHJ0swkcRxzZ9HJEMP7x4wXdMk767Pg7dK2nh8_6iGn42c9JzJsaajU51kgfnJNtdqDspIsjpD9gaNzj_oslQ--5bnlglt_n-F1lSYhVXrnxbeIL6URst-TdjsaVmnE1prKaNM-GY183YXo-eALAppJVy7nIlEN3U8xNbVlEC3HO-xkk0O5pP4Reo9iSrStp9sacQuwCut-HKvXFT1nRDghVBfBc
+
+
+🦄澳门频道,#genre#
+澳视澳门台,http://www.biaozhun114.com/dl/dl668/top.php?id=301
+澳视葡文台,http://www.biaozhun114.com/dl/dl668/top.php?id=302
+澳视卫星台,http://www.biaozhun114.com/dl/dl668/top.php?id=303
+澳视体育台,http://www.biaozhun114.com/dl/dl668/top.php?id=304
+澳视资讯台,http://www.biaozhun114.com/dl/dl668/top.php?id=305
+澳视高清台,http://www.biaozhun114.com/dl/dl668/top.php?id=306
+澳亚卫视,http://www.biaozhun114.com/dl/dl668/top.php?id=308
+澳门卫视,http://www.biaozhun114.com/dl/dl668/top.php?id=309
+莲花卫视,http://lhq-cctv.8866.org:18181/tsfile/live/1212_1.m3u8
+莲花卫视,http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
+🦄湾湾频道,#genre#
+中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+中天新闻,http://hls.666888999.gay/iptv.php?id=21
+东森LIVE,http://hls.666888999.gay/iptv.php?id=22
+中视HD,http://www.biaozhun114.com/dl/dl888/histar.php?ctv-hd
+中视,http://www.biaozhun114.com/dl/dl888/histar.php?中视
+华视,http://www.biaozhun114.com/dl/dl888/histar.php?cts
+台视,http://www.biaozhun114.com/dl/dl888/histar.php?ttv
+公视,http://www.biaozhun114.com/dl/dl888/histar.php?pts
+公视3台,http://www.biaozhun114.com/dl/dl888/histar.php?pts3
+中视新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?ctv-news
+中天新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?cti-news
+中天综合台,http://www.biaozhun114.com/dl/dl888/histar.php?ctitv36
+中天亚洲台,http://www.biaozhun114.com/dl/dl888/histar.php?cti-asia
+TVBS新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-news
+TVBSHD,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-hd
+TVBS欢乐台,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-huanle
+台视新闻,http://www.biaozhun114.com/dl/dl888/histar.php?ttv-news
+寰宇新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?global-news
+华视新闻,http://www.biaozhun114.com/dl/dl888/histar.php?cts-news
+镜新闻,http://www.biaozhun114.com/dl/dl888/histar.php?mnews
+壹新闻HD,http://www.biaozhun114.com/dl/dl888/histar.php?nexttv
+靖天资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?jtzx
+东森财经新闻,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-finance
+年代新闻,http://www.biaozhun114.com/dl/dl888/histar.php?era-news
+非凡新闻,http://www.biaozhun114.com/dl/dl888/histar.php?ustv-news
+东森新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-news
+东森超视HD,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-supertv
+靖天国际台,http://www.biaozhun114.com/dl/dl888/histar.php?jtgj
+TVBSAsia,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-asia
+八大综合台,http://www.biaozhun114.com/dl/dl888/histar.php?gtv28
+客家电视台,http://www.biaozhun114.com/dl/dl888/histar.php?hakkatv
+东森综合台,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-ettv
+纬来日本,http://www.biaozhun114.com/dl/dl888/histar.php?videoland-japan
+纬来综合台,http://www.biaozhun114.com/dl/dl888/histar.php?videoland
+八大第一台,http://www.biaozhun114.com/dl/dl888/histar.php?gtv27
+ELTA综合,http://www.biaozhun114.com/dl/dl888/histar.php?elta-tv
+中天娱乐台,http://www.biaozhun114.com/dl/dl888/histar.php?ctitv39
+八大娱乐台,http://www.biaozhun114.com/dl/dl888/histar.php?gtv86
+东森电影,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-movie
+东森戏剧,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-drama
+东森洋片,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-emovie
+卫视中文台,http://www.biaozhun114.com/dl/dl888/histar.php?star-chinese-channel
+卫视电影台,http://www.biaozhun114.com/dl/dl888/histar.php?star-chinese-movies
+龙祥电影台,http://www.biaozhun114.com/dl/dl888/histar.php?lstime
+好莱坞电影台,http://www.biaozhun114.com/dl/dl888/histar.php?hollywood-tw
+八大戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?gtv41
+纬来戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?videoland-drama
+纬来电影台,http://www.biaozhun114.com/dl/dl888/histar.php?videoland-movie
+龙华电影台,http://www.biaozhun114.com/dl/dl888/histar.php?ltv-movies
+龙华洋片台,http://www.biaozhun114.com/dl/dl888/histar.php?ltv-movies
+靖天电影台,http://www.biaozhun114.com/dl/dl888/histar.php?jtdy
+美亚电影台,http://www.biaozhun114.com/dl/dl888/histar.php?meiah-movies
+ELTA影剧,http://www.biaozhun114.com/dl/dl888/histar.php?elta-drama
+EYE戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?eye-drama
+星卫HD电影台,http://www.biaozhun114.com/dl/dl888/histar.php?star-movies
+星卫娱乐台,http://www.biaozhun114.com/dl/dl888/histar.php?star-entetainment
+MTVLiveHD频道,http://www.biaozhun114.com/dl/dl888/histar.php?mtv
+国兴卫视,http://www.biaozhun114.com/dl/dl888/histar.php?gold-sun-tv
+民视,http://www.biaozhun114.com/dl/dl888/histar.php?ftv
+民视台湾台,http://www.biaozhun114.com/dl/dl888/histar.php?ftv-tw
+三立综合台,http://www.biaozhun114.com/dl/dl888/histar.php?settv-zonghe
+三立台湾台,http://www.biaozhun114.com/dl/dl888/histar.php?settv-taiwan
+猪哥亮歌厅秀,http://www.biaozhun114.com/dl/dl888/histar.php?zglgtx
+中天综合,http://www.biaozhun114.com/dl/dl888/histar.php?ctitv36
+中天亚洲,http://www.biaozhun114.com/dl/dl888/histar.php?cti-asia
+纬来综合,http://www.biaozhun114.com/dl/dl888/histar.php?videoland
+八大综合,http://www.biaozhun114.com/dl/dl888/histar.php?gtv28
+八大第一,http://www.biaozhun114.com/dl/dl888/histar.php?gtv27
+ELTA综合台,http://www.biaozhun114.com/dl/dl888/histar.php?elta-zonghe
+ARIRANG 阿里郎频道,http://www.biaozhun114.com/dl/dl888/histar.php?arirang
+TVBS 精采台,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-jc
+LiveABC 互动英语频道,http://www.biaozhun114.com/dl/dl888/histar.php?liveabc
+KLT-靖天国际台,http://www.biaozhun114.com/dl/dl888/histar.php?jtgj
+韩国娱乐台 KMTV,http://www.biaozhun114.com/dl/dl888/histar.php?kmtv
+好消息,http://www.biaozhun114.com/dl/dl888/histar.php?goodtv
+中视菁采台,http://www.biaozhun114.com/dl/dl888/histar.php?bravo
+靖天育乐台,http://www.biaozhun114.com/dl/dl888/histar.php?jtyl
+靖天综合台,http://www.biaozhun114.com/dl/dl888/histar.php?jtzh
+东森超视,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-super
+中视,http://www.biaozhun114.com/dl/dl888/histar.php?ctv
+TVBS 欢乐台,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-huanle
+公视3台,http://www.biaozhun114.com/dl/dl888/histar.php?pts-3
+公视台语台,http://www.biaozhun114.com/dl/dl888/histar.php?pts-ty
+民视第一台,http://www.biaozhun114.com/dl/dl888/histar.php?ftv-one
+民视影剧,http://www.biaozhun114.com/dl/dl888/histar.php?ftv-drama
+民视综艺,http://www.biaozhun114.com/dl/dl888/histar.php?ftv-reality
+民视旅游,http://www.biaozhun114.com/dl/dl888/histar.php?ftv-travel
+中天娱乐,http://www.biaozhun114.com/dl/dl888/histar.php?cti-yule
+纬来戏剧,http://www.biaozhun114.com/dl/dl888/histar.php?videoland-drama
+八大娱乐,http://www.biaozhun114.com/dl/dl888/histar.php?gtv-86
+八大戏剧,http://www.biaozhun114.com/dl/dl888/histar.php?gtv-41
+三立戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?settv-drama
+中视经典台,http://www.biaozhun114.com/dl/dl888/histar.php?ctv-classic
+八大综艺,http://www.biaozhun114.com/dl/dl888/histar.php?grt
+八大精彩台,http://www.biaozhun114.com/dl/dl888/histar.php?gtv-jct
+ELTA 娱乐台,http://www.biaozhun114.com/dl/dl888/histar.php?elta-ylt
+视纳华仁纪实频道,http://www.biaozhun114.com/dl/dl888/histar.php?cnex
+靖天戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?jtxjt
+公视戏剧,http://www.biaozhun114.com/dl/dl888/histar.php?gsxj
+采昌影剧台,http://www.biaozhun114.com/dl/dl888/histar.php?caichang
+靖天映画,http://www.biaozhun114.com/dl/dl888/histar.php?jtyh
+龙华日韩台,http://www.biaozhun114.com/dl/dl888/histar.php?ltv-rihan
+龙华戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?ltv-xiju
+影迷数字电影台,http://www.biaozhun114.com/dl/dl888/histar.php?fans-cinema
+影迷数位纪实台,http://www.biaozhun114.com/dl/dl888/histar.php?ymswjst
+MTV Live HD 频道,http://www.biaozhun114.com/dl/dl888/histar.php?mtv
+靖洋戏剧台,http://www.biaozhun114.com/dl/dl888/histar.php?jyxj
+民视新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?ftv-news
+三立新闻,http://www.biaozhun114.com/dl/dl888/histar.php?settv-news
+三立iNews,http://www.biaozhun114.com/dl/dl888/histar.php?settv-inews
+非凡新闻,http://www.biaozhun114.com/dl/dl888/histar.php?unique-business-news
+SBN 全球财经台,http://www.biaozhun114.com/dl/dl888/histar.php?sbn
+半岛国际新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?aljazeera
+寰宇新闻台湾台,http://www.biaozhun114.com/dl/dl888/histar.php?global-news-tw
+TVBS HD,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-hd
+TVBS 新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?tvbs-news
+壹新闻 HD,http://www.biaozhun114.com/dl/dl888/histar.php?nexttv
+寰宇財經台,http://www.biaozhun114.com/dl/dl888/histar.php?global-finance
+镜电视新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?mnews
+大爱二台,http://www.biaozhun114.com/dl/dl888/histar.php?daai2
+大爱一台,http://www.biaozhun114.com/dl/dl888/histar.php?daai1
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+Astro华丽台,http://www.biaozhun114.com/dl/dl888/histar.php?astro-wahlaitoi
+国家地理,http://www.biaozhun114.com/dl/dl888/histar.php?natgeo
+国家地理野生频道,http://www.biaozhun114.com/dl/dl888/histar.php?natgeo-wild
+动物星球频道,http://www.biaozhun114.com/dl/dl888/histar.php?animal-planet
+探索频道,http://www.biaozhun114.com/dl/dl888/histar.php?discovery
+DMAX,http://www.biaozhun114.com/dl/dl888/histar.php?dmax
+探索科学频道,http://www.biaozhun114.com/dl/dl888/histar.php?discovery-sci
+探索亚洲频道,http://www.biaozhun114.com/dl/dl888/histar.php?discovery-asia
+History频道,http://www.biaozhun114.com/dl/dl888/histar.php?history
+History-2频道,http://www.biaozhun114.com/dl/dl888/histar.php?history-2
+TLC旅游生活頻道,http://www.biaozhun114.com/dl/dl888/histar.php?tlc
+CI罪案侦查频道,http://www.biaozhun114.com/dl/dl888/histar.php?ci
+GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+亚洲旅游台,http://www.biaozhun114.com/dl/dl888/histar.php?asia-travel
+美食星球频道,http://www.biaozhun114.com/dl/dl888/histar.php?food-planet
+EYE旅游台,http://www.biaozhun114.com/dl/dl888/histar.php?eye-travel
+AstroAwani,http://www.biaozhun114.com/dl/dl888/histar.php?astro-awani
+AstroCeria,http://www.biaozhun114.com/dl/dl888/histar.php?astro-ceria
+AstroONE,http://www.biaozhun114.com/dl/dl888/histar.php?astro-one
+AstroPrima,http://www.biaozhun114.com/dl/dl888/histar.php?astro-prima
+AstroOasis,http://www.biaozhun114.com/dl/dl888/histar.php?astro-oasis
+AstroWarna,http://www.biaozhun114.com/dl/dl888/histar.php?astro-warna
+AstroRania,http://www.biaozhun114.com/dl/dl888/histar.php?astro-rania
+AstroAura,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aura
+8TV,http://www.biaozhun114.com/dl/dl888/histar.php?8tv
+TV9,http://www.biaozhun114.com/dl/dl888/histar.php?tv9
+AstroCitra,http://www.biaozhun114.com/dl/dl888/histar.php?astro-citra
+AstroAEC,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aec
+Astro双星台,http://www.biaozhun114.com/dl/dl888/histar.php?astro-shuangxing
+Astro全佳台HD,http://www.biaozhun114.com/dl/dl888/histar.php?astro-quanjia
+AstroAODHD,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod-hd
+Astro欢喜台,http://www.biaozhun114.com/dl/dl888/histar.php?astro-huaheedai
+AstroAOD,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod
+AstroArenaHD,http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena-hd
+AstroArena2,http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena2
+Astro爱奇艺,http://www.biaozhun114.com/dl/dl888/histar.php?astro-iqiyi
+Channel5,http://www.biaozhun114.com/dl/dl888/histar.php?channel-5
+ChannelU,http://www.biaozhun114.com/dl/dl888/histar.php?channel-u
+OKEY,http://www.biaozhun114.com/dl/dl888/histar.php?okey
+ABCNews,http://www.biaozhun114.com/dl/dl888/histar.php?abc-news
+Bloomberg,http://www.biaozhun114.com/dl/dl888/histar.php?bloomberg
+FoxNews,http://www.biaozhun114.com/dl/dl888/histar.php?fox-news
+BBCWorldNews,http://www.biaozhun114.com/dl/dl888/histar.php?bbc-world-news
+CNN,http://www.biaozhun114.com/dl/dl888/histar.php?cnn
+CBSNews,http://www.biaozhun114.com/dl/dl888/histar.php?cbsn
+CNBC,http://www.biaozhun114.com/dl/dl888/histar.php?cnbc
+CNBC,http://www.biaozhun114.com/dl/dl888/histar.php?/live
+纬来体育,http://www.biaozhun114.com/dl/dl888/histar.php?videoland-sport
+ELEVEN体育-1,http://www.biaozhun114.com/dl/dl888/histar.php?eleven-sport1
+ELEVEN体育-2,http://www.biaozhun114.com/dl/dl888/histar.php?eleven-sport2
+博斯运动-1,http://www.biaozhun114.com/dl/dl888/histar.php?sportcast1
+博斯运动-2,http://www.biaozhun114.com/dl/dl888/histar.php?sportcast2
+博斯高球-1,http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-golf1
+博斯高球-2,http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-golf2
+博斯网球,http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-tennis
+SonySports1HD,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports1
+SonySports2HD,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports2
+SonySports3HD,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports3
+SonySports4HD,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports4
+Eurosports-2,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports5
+beINSportsMAX,http://www.biaozhun114.com/dl/dl888/histar.php?bein-max
+SPOTV-2,http://www.biaozhun114.com/dl/dl888/histar.php?spotv2
+SPOTV,http://www.biaozhun114.com/dl/dl888/histar.php?spotv
+beINSports2,http://www.biaozhun114.com/dl/dl888/histar.php?bein-sports2
+beINSports1,http://www.biaozhun114.com/dl/dl888/histar.php?bein-sports1
+beINSports3,http://www.biaozhun114.com/dl/dl888/histar.php?bein-sports3
+EurosportHD,http://www.biaozhun114.com/dl/dl888/histar.php?eurosport-hd
+Eurosports-1,http://www.biaozhun114.com/dl/dl888/histar.php?eurosports-1
+博斯无限,http://www.biaozhun114.com/dl/dl888/histar.php?sportcast-wx
+ELTA体育-1,http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport1
+ELTA体育-2,http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport2
+靖天卡通台,http://www.biaozhun114.com/dl/dl888/histar.php?jtkt
+Astro小太阳,http://www.biaozhun114.com/dl/dl888/histar.php?astro-xty
+东森幼幼台,http://www.biaozhun114.com/dl/dl888/histar.php?ebc-yoyo
+MOMOTV,http://www.biaozhun114.com/dl/dl888/histar.php?momotv
+小尼克频道,http://www.biaozhun114.com/dl/dl888/histar.php?nick-jr
+MOMO亲子台,http://www.biaozhun114.com/dl/dl888/histar.php?momo-kids
+CN卡通,http://www.biaozhun114.com/dl/dl888/histar.php?cn-cartoon
+BoomerangHD,http://www.biaozhun114.com/dl/dl888/histar.php?boomerang-hd
+Animax卡通,http://www.biaozhun114.com/dl/dl888/histar.php?animax-cartoon
+尼克儿童频道,http://www.biaozhun114.com/dl/dl888/histar.php?nickelodeon
+BeritaRTM,http://www.biaozhun114.com/dl/dl888/histar.php?beritartm
+SukanRTM,http://www.biaozhun114.com/dl/dl888/histar.php?sukanrtm
+DramaSangat,http://www.biaozhun114.com/dl/dl888/histar.php?dramasangat
+tvN,http://www.biaozhun114.com/dl/dl888/histar.php?tvn
+TV1,http://www.biaozhun114.com/dl/dl888/histar.php?tv1-my
+TV2,http://www.biaozhun114.com/dl/dl888/histar.php?tv2-my
+TV3,http://www.biaozhun114.com/dl/dl888/histar.php?tv3-my
+Astro RIA,http://www.biaozhun114.com/dl/dl888/histar.php?astro-ria
+Astro AURA,http://www.biaozhun114.com/dl/dl888/histar.php?astra-aura
+TV Alhijrah,http://www.biaozhun114.com/dl/dl888/histar.php?tv-alhijrah
+ColorsHindi,http://www.biaozhun114.com/dl/dl888/histar.php?colorshindi
+TVS,http://www.biaozhun114.com/dl/dl888/histar.php?tvs
+AwesomeTV,http://www.biaozhun114.com/dl/dl888/histar.php?awesometv
+DidikTV7,http://www.biaozhun114.com/dl/dl888/histar.php?didiktv7
+Astro Vaanavil,http://www.biaozhun114.com/dl/dl888/histar.php?astro-vaanavil
+Astro Vinmeen,http://www.biaozhun114.com/dl/dl888/histar.php?astro-vinmeen
+Astro Vellithirai,http://www.biaozhun114.com/dl/dl888/histar.php?astro-vellithirai
+SunTV,http://www.biaozhun114.com/dl/dl888/histar.php?suntv
+SunMusic,http://www.biaozhun114.com/dl/dl888/histar.php?sunmusic
+SunNews,http://www.biaozhun114.com/dl/dl888/histar.php?sunnews
+Adithya,http://www.biaozhun114.com/dl/dl888/histar.php?adithya
+KTVHD,http://www.biaozhun114.com/dl/dl888/histar.php?ktvhd
+SunLife,http://www.biaozhun114.com/dl/dl888/histar.php?sunlife
+StarVijay,http://www.biaozhun114.com/dl/dl888/histar.php?starvijay
+ColorsTamil,http://www.biaozhun114.com/dl/dl888/histar.php?colorstamil
+ZeeTamil,http://www.biaozhun114.com/dl/dl888/histar.php?zeetamil
+ZeeCinemaHD,http://www.biaozhun114.com/dl/dl888/histar.php?zeecinemahd
+KBSWorld,http://www.biaozhun114.com/dl/dl888/histar.php?kbsworld
+HITSMovies,http://www.biaozhun114.com/dl/dl888/histar.php?hitsmovies
+Boo,http://www.biaozhun114.com/dl/dl888/histar.php?boo
+AstroPremier,http://www.biaozhun114.com/dl/dl888/histar.php?astropremier
+ShowCase,http://www.biaozhun114.com/dl/dl888/histar.php?showcase
+Bernama,http://www.biaozhun114.com/dl/dl888/histar.php?bernama
+ChannelNewsAsia,http://www.biaozhun114.com/dl/dl888/histar.php?channelnewsasia
+BBCEarth,http://www.biaozhun114.com/dl/dl888/histar.php?bbcearth
+Asian Food Network,http://www.biaozhun114.com/dl/dl888/histar.php?asian-food-network
+Astro TUTOR TV,http://www.biaozhun114.com/dl/dl888/histar.php?astro-tutor-tv
+Moonbug,http://www.biaozhun114.com/dl/dl888/histar.php?moonbug
+MTVLive,http://www.biaozhun114.com/dl/dl888/histar.php?mtvlive
+Arena Bola,http://www.biaozhun114.com/dl/dl888/histar.php?arena-bola
+Arena Bola2,http://www.biaozhun114.com/dl/dl888/histar.php?arena-bola2
+W-Sport,http://www.biaozhun114.com/dl/dl888/histar.php?w-sport
+Astro GolfChannel,http://www.biaozhun114.com/dl/dl888/histar.php?astro-golfchannel
+PremierSports,http://www.biaozhun114.com/dl/dl888/histar.php?premiersports
+Mediacorp Suria,http://www.biaozhun114.com/dl/dl888/histar.php?mediacorp-suria
+Mediacorp Vasantham,http://www.biaozhun114.com/dl/dl888/histar.php?mediacorp-vasantham
+Gem,http://www.biaozhun114.com/dl/dl888/histar.php?gem
+GlobalTrekker,http://www.biaozhun114.com/dl/dl888/histar.php?globaltrekker
+Astro AEC,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aec
+Astro Awani,http://www.biaozhun114.com/dl/dl888/histar.php?astro-awani
+Astro AOD 352,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod-hd
+Astro AOD 354,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aod
+Astro 欢喜台,http://www.biaozhun114.com/dl/dl888/histar.php?astro-huaheedai
+Channel U,http://www.biaozhun114.com/dl/dl888/histar.php?channel-u
+Channel 5,http://www.biaozhun114.com/dl/dl888/histar.php?channel-5
+Channel 8,http://www.biaozhun114.com/dl/dl888/histar.php?channel8
+Astro QJ,http://www.biaozhun114.com/dl/dl888/histar.php?astro-quanjia
+tvN Movies,http://www.biaozhun114.com/dl/dl888/histar.php?tvn-movies
+TVB Magic,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-magic
+AXN,http://www.biaozhun114.com/dl/dl888/histar.php?axn
+Astro 爱奇艺,http://www.biaozhun114.com/dl/dl888/histar.php?astro-iqiyi
+Astro Arena HD,http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena-hd
+Astro Arena 2,http://www.biaozhun114.com/dl/dl888/histar.php?astro-arena2
+Astro ONE,http://www.biaozhun114.com/dl/dl888/histar.php?astro-one
+Astro Ceria,http://www.biaozhun114.com/dl/dl888/histar.php?astro-ceria
+Astro Prima,http://www.biaozhun114.com/dl/dl888/histar.php?astro-prima
+Astro Warna,http://www.biaozhun114.com/dl/dl888/histar.php?astro-warna
+Astro Aura,http://www.biaozhun114.com/dl/dl888/histar.php?astro-aura
+Astro Oasis,http://www.biaozhun114.com/dl/dl888/histar.php?astro-oasis
+Astro Rania,http://www.biaozhun114.com/dl/dl888/histar.php?astro-rania
+Astro Citra,http://www.biaozhun114.com/dl/dl888/histar.php?astro-citra
+ROCK Action,http://www.biaozhun114.com/dl/dl888/histar.php?rock-action
+ROCK Entertainment,http://www.biaozhun114.com/dl/dl888/histar.php?rock-entertaiment
+amc 最爱电影,http://www.biaozhun114.com/dl/dl888/histar.php?amc-movie
+Lifetime 娱乐频道,http://www.biaozhun114.com/dl/dl888/histar.php?lifetime
+fun 探索娱乐台,http://www.biaozhun114.com/dl/dl888/histar.php?festival4k
+MyCinema Europe HD,http://www.biaozhun114.com/dl/dl888/histar.php?mycinema-europe
+Cinemax,http://www.biaozhun114.com/dl/dl888/histar.php?cinemax
+HBO HD,http://www.biaozhun114.com/dl/dl888/histar.php?hbo-hd
+HBO Hits HD,http://www.biaozhun114.com/dl/dl888/histar.php?hbo-hits-hd
+HBO Signature HD,http://www.biaozhun114.com/dl/dl888/histar.php?hbo-signature
+HBO Family HD,http://www.biaozhun114.com/dl/dl888/histar.php?hbo-family
+VOA 美国之音,http://www.biaozhun114.com/dl/dl888/histar.php?voa
+DW 德国之声,http://www.biaozhun114.com/dl/dl888/histar.php?dw
+CNN International,http://www.biaozhun114.com/dl/dl888/histar.php?cnn-international
+HLN,http://www.biaozhun114.com/dl/dl888/histar.php?cnn-hln
+BBC World News,http://www.biaozhun114.com/dl/dl888/histar.php?bbc-world-news
+Euronews,http://www.biaozhun114.com/dl/dl888/histar.php?euronews
+ABC News,http://www.biaozhun114.com/dl/dl888/histar.php?abc-news
+beIN Sports,http://www.biaozhun114.com/dl/dl888/histar.php?beinsports
+beIN Sports 2,http://www.biaozhun114.com/dl/dl888/histar.php?beinsports2
+beIN Sports 3,http://www.biaozhun114.com/dl/dl888/histar.php?beinsports3
+myTV SUPER直播足球1台,http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer1
+myTV SUPER直播足球2台,http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer2
+myTV SUPER直播足球3台,http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer3
+myTV SUPER直播足球4台,http://www.biaozhun114.com/dl/dl888/histar.php?mytv-super-soccer4
+GINX Esports TV,http://www.biaozhun114.com/dl/dl888/histar.php?ginx-esports
+智林体育台,http://www.biaozhun114.com/dl/dl888/histar.php?zl-sports
+时尚运动 X,http://www.biaozhun114.com/dl/dl888/histar.php?ssydx
+TVBS新闻(5G),http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+东森新闻美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+NBA,http://www.biaozhun114.com/dl/dl888/histar.php?nba
+ELTA 体育-1,http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport1
+ELTA 体育-2,http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport2
+ELTA 体育-3,http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport3
+ELTA体育4台,http://www.biaozhun114.com/dl/dl888/histar.php?elta-sport4
+WWE,http://www.biaozhun114.com/dl/dl888/histar.php?wwe
+Astro SuperSport,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports1
+Astro SuperSport 2,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports2
+Astro SuperSport 3,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports3
+Astro SuperSport 4,http://www.biaozhun114.com/dl/dl888/histar.php?super-sports4
+TRACE Sport Stars,http://www.biaozhun114.com/dl/dl888/histar.php?trace-sport-stars
+Tech Storm,http://www.biaozhun114.com/dl/dl888/histar.php?tech-storm
+i-Fun 动漫台,http://www.biaozhun114.com/dl/dl888/histar.php?i-fun
+DreamWorks 梦工厂动画,http://www.biaozhun114.com/dl/dl888/histar.php?dreamworks
+靖洋卡通 NiceBingo,http://www.biaozhun114.com/dl/dl888/histar.php?nice-bingo
+达文西频道,http://www.biaozhun114.com/dl/dl888/histar.php?da-vinci
+迪士尼频道,http://www.biaozhun114.com/dl/dl888/histar.php?disney
+MOMO 亲子台,http://www.biaozhun114.com/dl/dl888/histar.php?momo-kids
+ELTV生活英語台,http://www.biaozhun114.com/dl/dl888/histar.php?eltv
+Animax 卡通,http://www.biaozhun114.com/dl/dl888/histar.php?animax-cartoon
+Boomerang HD,http://www.biaozhun114.com/dl/dl888/histar.php?boomerang-hd
+车迷TV,http://www.biaozhun114.com/dl/dl888/histar.php?motorvision
+ELTA 生活旅游台,http://www.biaozhun114.com/dl/dl888/histar.php?elta-lifetravel
+Love Nature,http://www.biaozhun114.com/dl/dl888/histar.php?love-nature
+LUXE TV Channel,http://www.biaozhun114.com/dl/dl888/histar.php?luxe-tv
+滚动力 rollor,http://www.biaozhun114.com/dl/dl888/histar.php?rollor
+国家地理 野生频道,http://www.biaozhun114.com/dl/dl888/histar.php?natgeo-wild
+History 频道,http://www.biaozhun114.com/dl/dl888/histar.php?history
+History-2 频道,http://www.biaozhun114.com/dl/dl888/histar.php?history-2
+TLC 旅游生活頻道,http://www.biaozhun114.com/dl/dl888/histar.php?tlc
+EYE 旅游台,http://www.biaozhun114.com/dl/dl888/histar.php?eye-travel
+CI 罪*案*侦*查,http://www.biaozhun114.com/dl/dl888/histar.php?ci
+
+美国中文,https://cdnts.sinovision.net/livestream.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+创世电视,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+半岛新闻台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+TRT世界台,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+台湾Plus台,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+Star Sports,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
+Fox Sports,http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+Now新闻台,https://cdn.ggapk.net/live/tv?id=a94aseVHi7FvOnQFxZ4-t0YONazHZExZk7vjwMQZkZgGT0SeizDRvjd7kxaUeRzdeCRFvSHfE0RaBFItxP4wi8ZLZdlddn4-WzGE2_9B1Mdo2_E5N4lFrVy74ZjGNZYkojMV3pfTKZL0osyWKc3FI9RYQNtpIzRMgsU6fyFQPHX4XZY075GRmnWrwslrso-UDbVh0ZhvkFP0vC3LWaUr6yctH-rLrguMPrhKCQR0juzvJ11CtgRPYViFJ0yJWS2ZnljfPMHt-Jm07C9d8ptgQduX-ou4Bdu6iaCSQoO8-LZ4PjSO6KG88uU_DRPXN5EOlMaDGKHKVNE9yXFshKYrhibiBkNd9x6ELQQYOKWYH52LjoOMG8ZGYIPQ_7U
+台视,https://cdn.ggapk.net/live/tv?id=6b16NUug3pTT7ql1RH1RCtanDXCESINYSQVqD3Sif39-TYLNTzi0geC5ULx6JSfHDFgKu7tvP6pAT-Giow8D38hwMIZop9ycmjlfdgcrrdoJMRBF8KdzTdRVl1s8suDEDuJYF92VK76VzMUYV8LNlBcQHLR3iuX7H3JG-y3ay_5XPfMMO9LWJyS20eWc3KRLR1dD9fvlVdcK-W0m0ZfoqnMs6_1jMXtl2SNRqhU3sV3HJAuwq-qYEI_kFYcrXHiUcGMK_jkkFm6_CrjPSeP_Cm_W2Hh427A6xNXoLTSISd_HQ7PrMIW9vUXxIcEly3cH1dZNULs4AC8iv08WoGHAEsUR-Q7RvWRP1rQAMtYk-kfcCbIxQGJSyBh9324
+中天新闻台,https://cdn.ggapk.net/live/tv?id=a15eEJ3RgVWSVJRvC-9CjxKvPsRATdquHpEpRmQPKqhEYr1Cde0mBbeo84y_NBixkCbrZhiKHOJn4fMjKNkECNkml5OWCwzG9i77BiEZNUQKKRn1At_yhFDLPhOMcLbZlBklLuuv1GuxTIh-cJI2TDC3GqbupfXGxDsqXRF14XwekiREiZzoMSwXtjsXDzM7Bwp8dQdryAJTMFNlZc0_kj8xmB2GbwpVljzC5PgM94p-cbmowHKo7CcCFlBbml-6ux77-fxxU0H10E_UJJXDnzxUez0AdiQVsnRATdsmXTy41Zo-6sm_qVXp5TtNOTsRQmVv1iaxPMeMtAETjveZPkR6h_7tGSoh6H1L1DX1AdZ3m0mF86JDdJ27LsY
+东森新闻台,https://cdn.ggapk.net/live/tv?id=ba6brClPgkS4YwmRHWNvyWk8GuRbLMDDPJYYk2lKhbWThmnOcEIjkKKhjyZvKxLi_cv5QFF_-4PKBzbo0jtrV_fqxyUVT78Jq5GnwBQBzMsKS91DGuMxlgx0pRLMJRdxQL9gzdTY6jzI3GVMo6b87a5rUzszC2S6vjEZCyfp_noc5fmZwc3Gy68YQr953xSdRU_oK_ODHBT5fb2EoVGj6vdtx0sOizx1-3xdY2S-a1qgKhTk-3a_mvxOmBmA-Ynhe5KZr7Ba_Iq_XMtlm03QZrFiz6M9mR7JW8HQQO8Eu0EqD64QFfRy0dadOOnFpaFa5YIMPR-7uYpAS-3FXX6vsoaty9BvMZO5Ocl-_C28-aJZMHKBsopq5zRgEtM
+TVBS新闻台,https://cdn.ggapk.net/live/tv?id=60c4IftsayO0UzqlmgUX93EDc5O1tccuZoEu34DCB94zGn0km8gz5aTDxme9DB3cUjlY9inQOo_QSgRa8EAJdaorGfyiM_XRihijxR90nBATNtJ8v4tGS2Vdj8wBNADux7uBD0zMmoby0A-8NLdRh4s6sMMnZW9uD7pV2sskpcYM1u5_78UrNtqxhPfFLDXtXN7a2biYhsd9Z94z2uQdvn2KkgylqShpMUYt9FPE8YJJ_dK0zWd-bBvICXIo31m3c6E-cULdVxNi6X5WTel2gZ0_4dlu3YONlFPJh8NJ5wSR0VsVm02FdJrzEf48fbbMQ_Qv7gfUZ4vONP5KYw53VMumnhat9cOy6eFgcqsasxHWKnjLKeQ1GLcYkRo
+东森幼幼台,https://cdn.ggapk.net/live/tv?id=481acOVi1bOezhQUrRHaay6ySvrE7CS5AOf-cXoR-HrVs19SrjObr9ZwTFnllEQ_j0DM4HS4gebbYxN0mGBxbWiMFkLI5xH1b9tdfzdpLvDFQvn6ktd0qVU0b0kF8ix1t6WpNX9gR7WFBpVU-OEuQDq31HXeTb7AG6f2OjMBCYlmfJ4obsO33Ga0R4nhoSN1lk2C-N1pj4s6iTtJBHvhw7J9mchcYVN4_GxQQJKH37FQXflT8IV1HdBAXRcIedAwMiR8ojrRkC6aqIUymz_9-FA6Scafr71NFIBmpA1oTmnvwsOPiQhdLU1MhcYg8E9pc_uVLlZblF5ygIqVSoATaCdUZjEQdPfKU-ouGo3WTnG4pZXw0bhVXf96zWA
+东森财经新闻,https://cdn.ggapk.net/live/tv?id=552fNz0ue4_Dc3r0FNhgb1kcoGWoJBQMzDZZVKBOV80UxKFXuL2A48KV3rqUHWu9cSOAjyyC9src8_A0vsJlqC-YYFE-lPkZB4mgmTZjIet14L95tv06gykfOMXxxgFZl84ECYP__9vVx3AujKNu3-q60OOd1frgb1r-DdwxFa84aB8jt17oNXJdR-k9M0_Ip_iuW8oC_saaO4OARWugVGd1q8dXktpl82P5zdQGavb1vmme_q2nzom0Jav6XOIaVJh1Bev3lHoiGB6SvMrtW3BgQQOH7zGKveTAmBH7-76IM63Xta1t10HdW-S_eoFMfLCL4Z9JnNZKk5XKflf6T6d7Z7t-y8l9agj-fpmnJlaE2QZonUoZmztp9VI
+
+
+🦄日韩频道,#genre#
+NEWS 24H「日本」,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+NKK World「日本」,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日本·NHK国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+QVC「日本」,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+购物频道1「日本」,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+购物频道2「日本」,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+
+SBS(5G专线),http://1.245.74.5:1935/live/tv/.m3u8
+韩国韩国中央(5G专线),http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+韩国iMBC(5G专线),https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+声优广播(5G专线),http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+韩国阿里郎WORLDworld(5G专线),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+KBC 광주방송 (SBS 光州)「韩国」,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+NBS Korea Agricultural Broadcasting「韩国」,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+TJB 대전방송 (SBS 大田)「韩国」,http://1.245.74.5:1935/live/tv/.m3u8
+KCTV 광주「韩国」,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+MBC「韩国」,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+KBS World「韩国」,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+CTS기독교TV「韩国」,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+韩国-Arirang「韩国」,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国lEBS 儿童频道「韩国」,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国EBS少儿频道「韩国」,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国EBS加一频道「韩国」,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+韩国EBS第一频道「韩国」,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国EBS第一频道「韩国」,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
+韩国·EBS加二频道「韩国」,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+韩国·EBS第一频道「韩国」,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+韩国·EBS第二频道「韩国」,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国·EBS_E频道「韩国」,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国-BBS「韩国」 ,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国新聞「韩国」,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
+韩国職業廣播「韩国」,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+韩国-MBC综合频道「韩国」,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国-NBS Korea Agricultural Broadcasting「韩国」,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国-TJB (SBS 大田)「韩国」,http://1.245.74.5:1935/live/tv/.m3u8
+韩国EBS第二频道「韩国」,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
+DUBAI ONE「韩国」,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+Arirang 阿里郎「韩国」,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+iHQ 돈쭐내러 왔습니다「韩国」,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ihq%EB%8F%88%EC%AD%90%EB%82%B4%EB%9F%AC%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4&channel_id=newid_066&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7655c725-1db330b1-ae689684-c7002a87&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name
+KBS LiveCam DokDo「韩国」,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+KBS WORLD「韩国」,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS WORLD「韩国」,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS WORLD「韩国」,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+韩国EBS少儿频道(5G专线),http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+韩国MBC频道(5G专线),http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+韩国EBS加一频道(5G专线),http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
+儿童频道(5G专线),http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+韩国-EBS,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+韩国-EBS,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
+韩国-EBSE,http://ebsonairios.ebs.co.kr/plus3tablet500k/tablet500k/plus3tablet500k.index.m3u8
+韩国-EBS,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
+CJB(5G专线),http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+SBS综艺(5G专线),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+阿里郎WORLD(5G专线),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+韩国·EBS加二频道(5G专线),http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
+KCTV(5G专线),http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
+韩国·NBS农业广播(5G专线),https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+韩国-ARS(5G专线),https://media1.cpbc.co.kr:8888/vod/_definst_/mp4:ads/spot_khs.mp4/chunklist.m3u8
+BBS佛教广播(5G专线),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+韩国-Arirang(5G专线),http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
+韩国-Arirang(5G专线),http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+韩国-Arirang(5G专线),https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+韩国-BBS(5G专线),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+韩国-EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+韩国-EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+韩国-KCTV_HV2(5G专线),http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+韩国-Arirang(5G专线),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+아름방송(5G专线),https://vod2.abn.co.kr/IPHONE/abn.m3u8
+THGL(5G专线),http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
